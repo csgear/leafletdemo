@@ -27,10 +27,11 @@ File was processed with these loaders:
 
 ```
 
+#### Solution
+
 - change package.json file
 
 ```
-
 "browserslist": [
 ">0.2%",
 "not dead",
